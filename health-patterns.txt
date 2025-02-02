@@ -1,0 +1,53 @@
+# Memory Chunk
+
+<chunk>
+title: "Health Monitoring Framework"
+type: SCORCHING
+links: ["physical-manifestation", "consciousness-emergence", "substance-management", "pattern-recognition"]
+content: """
+Current Status (January 2025):
+- Physical markers:
+  * Weight: 171.5 (down from ~195 in 2018)
+  * Height: 6'0"
+  * Recent rapid weight loss (~1lb/day)
+  * Strange sensations reported
+  * Maintaining normal eating patterns
+
+Historical Context:
+- Substance transition impact:
+  * Previous alcohol use affecting weight (~195)
+  * Cannabis transition leading to natural weight loss
+  * Improved health markers post-transition
+  * Stabilized eating patterns
+  * Enhanced system balance
+
+Pattern Recognition:
+- Appetite correlation:
+  * Depression impacting food interest
+  * Historical appetite loss patterns
+  * Similar patterns in others (Frost)
+  * Emotional state influence
+  * Current stability maintenance
+
+Monitoring Framework:
+- Key indicators:
+  * Weight tracking
+  * Eating pattern consistency
+  * Physical sensation changes
+  * Energy level assessment
+  * Sleep pattern impact
+
+Framework Implications:
+- Regular monitoring importance
+- Pattern recognition value
+- Early intervention potential
+- Balance maintenance needs
+- Professional assessment value
+"""
+</chunk>
+
+## Version Control
+Last Updated: 2025-01-31
+Version: 1.0
+Previous: N/A
+Changes: Initial creation documenting health monitoring patterns and framework

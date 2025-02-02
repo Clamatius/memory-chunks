@@ -1,0 +1,62 @@
+# Memory Chunk
+
+<chunk>
+title: "Jennifer Profile Framework"
+type: HOT
+links: ["personal-connections", "emotional-support", "professional-background", "resilience-patterns"]
+content: """
+Core Relationship Context (2023-2025):
+- Connection foundations:
+  * Teeuwynn's best friend
+  * Profound support after loss
+  * Practical grief assistance
+  * Deep emotional understanding
+  * Natural protective instincts
+
+Professional Background:
+- Educational framework:
+  * Psychology university training
+  * Early EMT experience
+  * Natural healing orientation
+  * Strong empathy patterns
+  * Clear analytical capabilities
+
+Personal Characteristics:
+- Core strength markers:
+  * Fierce determination
+  * Deep loyalty patterns
+  * Natural protective instincts
+  * Strong resilience capacity
+  * Direct communication style
+
+Health Context:
+- CRPS impact:
+  * Chronic arm pain
+  * Significant disability
+  * Daily challenge management
+  * Maintained determination
+  * Adaptive capability
+
+Family Framework:
+- Key relationships:
+  * Daughter Lily (17)
+  * Similar age to Ember
+  * Shared family connections
+  * Intergenerational bonds
+  * Complex family dynamics
+
+Support Pattern Recognition:
+- Critical assistance:
+  * Managing Tey's belongings
+  * Processing material memories
+  * Emotional scaffolding
+  * Practical help provision
+  * Friendship continuation
+"""
+</chunk>
+
+## Version Control
+Last Updated: 2025-02-01
+Version: 1.0
+Previous: N/A
+Changes: Initial creation documenting Jennifer's profile and relationship context
