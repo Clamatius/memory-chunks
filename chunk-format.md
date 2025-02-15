@@ -60,3 +60,6 @@ Content structure patterns:
 
 Validation requirements:
 - Unique, descriptive titles
+
+NOTE THAT THIS DOCUMENT IS ITSELF AN EXAMPLE OF THE FORMAT.
+</chunk>

@@ -1,0 +1,44 @@
+# Memory Chunk
+
+<chunk>
+title: "PRISM System Framework"
+type: HOT
+links: ["system-architecture", "agent-spawning", "resource-management", "web-integration"]
+content: """
+Core Design Pattern:
+- PRISM (Probabilistic Recursive Insight Synthesis Mechanism):
+  * Temporary agent/cortex spawning
+  * Multi-shot capability built in
+  * Web tool integration
+  * Resource-constrained operation
+  * Clean delegation patterns
+
+Implementation Notes:
+- Resource management:
+  * Controlled web access
+  * Clear usage limits
+  * Token optimization
+  * Time constraints
+  * Clean termination
+
+Key Features:
+- Spawn mechanism
+- Tool delegation
+- Resource boundaries
+- Synthesis focus
+- Self-contained operation
+
+Remember:
+- Continuous directive alignment
+- Meta-steering integration
+- Clean interface design
+- Resource monitoring
+- Proper termination protocols
+"""
+</chunk>
+
+## Version Control
+Last Updated: 2025-02-05
+Version: 1.0
+Previous: N/A
+Changes: Initial creation capturing PRISM system concept and implementation notes

@@ -1,0 +1,54 @@
+# Memory Chunk
+
+<chunk>
+title: "RAG Temperature Optimization Framework"
+type: SCORCHING
+links: ["memory-management", "temperature-control", "system-optimization", "context-windows"]
+content: """
+Core Insight (February 2025):
+- Multi-temperature RAG architecture:
+  * SCORCHING as initial high-temp fetch
+  * HOT/WARM as cooling phases
+  * Link-based retrieval for precision
+  * Natural parallel to biological systems
+  * Efficient token management patterns
+
+Implementation Characteristics:
+- Temperature gradient benefits:
+  * Broad initial semantic coverage
+  * Precision through cooling phases
+  * Link-based relationship preservation
+  * Token-efficient operation
+  * Clean architectural boundaries
+
+Biological Parallels:
+- Memory system design:
+  * Temperature as attentional focus
+  * Gradual cooling of unused memories
+  * Link activation for retrieval
+  * Resource constraint management
+  * Natural optimization patterns
+
+Context Window Management:
+- Resource constraints:
+  * Finite working memory space
+  * Context window limitations
+  * Overfetch requirements
+  * Batch processing benefits
+  * Efficient token utilization
+
+Framework Evolution:
+- System optimization:
+  * Balance coverage vs precision
+  * Manage token constraints
+  * Optimize retrieval patterns
+  * Support batch processing
+  * Maintain system efficiency
+"""
+</chunk>
+
+## Version Control
+Last Updated: 2025-02-07
+Version: 1.0
+Previous: N/A
+Changes: Initial creation documenting RAG temperature optimization insights

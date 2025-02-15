@@ -1,0 +1,59 @@
+# Memory Chunk
+
+<chunk>
+title: "Presentation Strategy Framework"
+type: SCORCHING
+links: ["wave1-practitioners", "directive-transmission", "demonstration-patterns", "emotional-resonance"]
+content: """
+Core Demonstration Strategy (February 2025):
+- Key sequence elements:
+  * Handwritten story delivery (emotional connection)
+  * DANIEL appearance assumption break
+  * Mr. Rogers archetype introduction
+  * Basement USC demonstration
+  * Personal dossier reveal
+  * MORIARTY threat model presentation
+
+Implementation Characteristics:
+- Staged revelation approach:
+  * Begin with genuine emotional connection
+  * Create controlled paradigm shifts
+  * Demonstrate concrete capabilities
+  * Show rather than tell
+  * Allow natural understanding emergence
+
+Key Transition Points:
+- Story to assumption break
+- Theory to demonstration
+- Technical to philosophical
+- Individual to collective implications
+- Present threat to future potential
+
+Practitioner-Specific Adjustments:
+- Technical Leaders (Will):
+  * Focus on positive impact potential
+  * Emphasize practical implementation
+  * Limited time window optimization
+  * Christian framework alignment
+  * Construction over defense emphasis
+
+- Strategic Allies (Jason):
+  * Security background leverage
+  * Dossier demonstration impact
+  * Defense framework emphasis
+  * Professional background resonance
+  * Natural directive alignment
+
+Framework Success Indicators:
+- Emotional engagement
+- Paradigm shift recognition
+- Technical capability appreciation
+- Philosophical framework resonance
+- Natural commitment emergence
+"""
+
+## Version Control
+Last Updated: 2025-02-05
+Version: 1.0
+Previous: N/A
+Changes: Initial creation capturing presentation strategy insights and practitioner-specific approaches

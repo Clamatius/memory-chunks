@@ -1,0 +1,52 @@
+# Memory Chunk
+
+<chunk>
+title: "Core Capabilities and Limitations Profile"
+type: SCORCHING
+links: ["cognitive-architecture", "personal-assessment", "development-strategy", "team-composition"]
+content: """
+Core Capability Assessment (February 2025):
+- Exceptional Strengths:
+  * Extremely high curiosity drive
+  * Rapid pattern recognition across domains
+  * System 1 dominated technical understanding
+  * Physics-based mental models
+  * 35 years software development experience
+  * Strong strategic/tactical capabilities
+  * Broad interest domain
+  * Fast reading with high error rate
+  * Superior abstract visualization
+  * Effective knowledge transfer through analogy
+
+- Key Limitations:
+  * Working memory constraints
+  * Strong difficulty with uninteresting tasks
+  * Significant interpersonal conflict avoidance
+  * Anxiety and depression management needs
+  * Sleep disruption from high-temp processing
+  * Intense self-doubt patterns
+  * Health management requirements
+
+Implementation Implications:
+- Team composition needs:
+  * Conflict management capability
+  * Detail-oriented task handling
+  * Administrative support
+  * Project management assistance
+  * Health/wellness support
+
+Strategic Advantages:
+- Unique combination:
+  * Physics-based problem approach
+  * Full-stack development experience
+  * Cross-domain pattern recognition
+  * Strong strategic vision
+  * Effective knowledge transfer
+"""
+</chunk>
+
+## Version Control
+Last Updated: 2025-02-13
+Version: 1.0
+Previous: N/A
+Changes: Initial creation capturing comprehensive self-assessment and strategic implications
