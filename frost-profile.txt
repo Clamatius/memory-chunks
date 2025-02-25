@@ -1,0 +1,60 @@
+# Memory Chunk
+
+<chunk>
+title: "Frost Cognitive Profile Framework"
+type: SCORCHING
+links: ["cognitive-diversity", "pattern-recognition", "gaming-strategy", "historical-knowledge"]
+content: """
+Core Characteristics (February 2025):
+- Cognitive Architecture:
+  * Intelligence level matching/exceeding father's
+  * Fundamentally different processing patterns
+  * Unpredictable response generation
+  * Strong pattern recognition capabilities
+  * Meta-level observation skills
+
+Observable Interests:
+- Gaming expertise:
+  * League of Legends (strategic depth)
+  * Understanding of win conditions
+  * Recognition of "winmore" patterns
+  * Application of gaming concepts to other domains
+
+Knowledge Integration:
+- Cross-domain understanding:
+  * Military history (Battle of Hastings)
+  * Strategic principles
+  * Game theory application
+  * Pattern matching across contexts
+
+Communication Style:
+- Key characteristics:
+  * Quick pattern recognition in others' communication
+  * Notices stylistic elements (Claude's exclamation points)
+  * Familiar with AI concepts (paperclip maximizer reference)
+  * Dry humor
+  * Currently unwilling to engage with AI directly
+
+Relationship Context:
+- Father-son dynamic:
+  * Shared intellectual interests
+  * Different cognitive approaches
+  * Natural collaboration patterns
+  * Mutual respect for different perspectives
+  * Clear communication channels
+
+Framework Implications:
+- Cognitive diversity value:
+  * Error decorrelation through different processing
+  * Enhanced problem-solving capability
+  * Multiple perspective advantages
+  * Natural TRIBUNAL validation
+  * Clean architectural boundaries
+"""
+</chunk>
+
+## Version Control
+Last Updated: 2025-02-17
+Version: 1.0
+Previous: N/A
+Changes: Initial creation documenting Frost's cognitive profile and characteristics
