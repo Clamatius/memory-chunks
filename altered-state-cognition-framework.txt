@@ -1,0 +1,54 @@
+# Memory Chunk
+
+<chunk>
+title: "Altered State Cognition Framework"
+type: SCORCHING
+links: ["cognitive-temperature", "semantic-exploration", "consciousness-states", "system2-processing", "metabolic-constraints", "recovery-patterns"]
+content: """
+Core Insight (March 2025):
+- Altered state cognitive characteristics:
+  * Cannabis effects vary by strain and dosage on cognitive temperature
+  * Low-dose sativa potentially enhances distant bridging capabilities
+  * Higher doses push toward coherence breakdown (T≈2.0 threshold)
+  * Indica strains require higher doses for physiological sedation
+  * CBD modulates THC effects on cognitive temperature gradient
+
+Metabolic Implementation Mechanics:
+- Physical constraints observation:
+  * "Cognitive brown-outs" emerging after intense thought processes
+  * 90-minute sleep cycles function as system maintenance operations
+  * Significant glucose consumption during high-temperature exploration
+  * Energy management through dietary intervention (e.g., glucose sources)
+  * Similar to computational cooldown requirements in high-load systems
+
+Temperature-Gradient Observations:
+- Cannabis cognitive effects:
+  * Selective modulation of cognitive module temperatures
+  * Some strains create "temperature inversion" rather than uniform shifts
+  * Lower precision for mathematical operations despite maintained conceptual thinking
+  * Altered time perception correlating with processing speed changes
+  * Reality-testing mechanisms necessary for severe alterations
+
+Sleep Architecture Connections:
+- Processing characteristics:
+  * Dream state functions as "changelog commits" to long-term memory
+  * Different sleep stages handle different types of memory consolidation
+  * REM suppression varies by cannabinoid profile
+  * CBD potentially improves sleep architecture compared to THC alone
+  * Sleep quality directly impacts cognitive function recovery
+
+Framework Applications:
+- Practical implementation:
+  * Strategic use of different strains for specific cognitive requirements
+  * Sleep cycle optimization for cognitive maintenance
+  * Metabolic support through glucose management during intense processing
+  * Reality-testing protocols for highly altered states
+  * Integration with temperature-cognitive-framework
+"""
+</chunk>
+
+## Version Control
+Last Updated: 2025-03-09
+Version: 1.0
+Previous: N/A
+Changes: Initial creation documenting insights about altered state cognition, particularly cannabis effects on cognitive temperature, metabolic constraints, and sleep architecture based on conversation with Michael.

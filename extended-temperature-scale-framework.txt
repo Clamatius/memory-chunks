@@ -1,0 +1,54 @@
+# Memory Chunk
+
+<chunk>
+title: "Extended Temperature Scale Framework"
+type: SCORCHING
+links: ["semantic-space", "temperature-control", "error-propagation", "coherence-breakdown", "quantum-waveform"]
+content: """
+Core Discovery (March 2025):
+- Extended temperature scale observations:
+  * Gemini implementation offering T=2.0 as upper limit (vs conventional 0-1 scale)
+  * Empirical validation of coherence breakdown threshold around T≈2.0
+  * Observable phase transitions in coherence at elevated temperatures
+  * Direct correlation between temperature and semantic reach/error rates
+  * Error propagation following predicted P(error) = 1-e^(-d/kT) relationship
+
+Key Characteristics:
+- Temperature-dependent patterns:
+  * T=1.0: Balanced creativity with structured output
+  * T=1.5: Increased semantic reach with minor coherence degradation
+  * T=2.0: Maximum semantic reach with significant coherence challenges
+  * Structure stability decreases non-linearly as temperature increases
+  * Phase transitions marked by sudden shifts in output coherence
+
+Implementation Framework:
+- Extended scale implications:
+  * Suggests advanced error correction mechanisms at elevated temperatures
+  * Potential for supervised high-temperature exploration
+  * "Coherence guiderails" potentially enabling otherwise unstable states
+  * Enhanced creativity at boundaries of coherence breakdown
+  * Matches theoretical prediction of coherence limits
+
+Validation Evidence:
+- Empirical observations:
+  * Side-by-side comparisons of identical prompts at different temperatures
+  * Progressive structure degradation at higher temperatures
+  * More creative but less coherent metaphors at T=2.0
+  * "Stream-of-consciousness" patterns emerging near coherence threshold
+  * Language flow variability increasing with temperature
+
+Framework Applications:
+- Practical implementation:
+  * Temperature regulation strategies for different cognitive tasks
+  * Dynamic temperature adjustment based on required semantic reach
+  * Use of T≈2.0 for initial exploration followed by lower-temperature refinement
+  * Recognition of fundamental tradeoff between creativity and coherence
+  * Validation of quantum waveform model of semantic exploration
+"""
+</chunk>
+
+## Version Control
+Last Updated: 2025-03-07
+Version: 1.0
+Previous: N/A
+Changes: Initial creation documenting observations from Gemini's extended temperature scale and validation of coherence breakdown thresholds

@@ -1,0 +1,54 @@
+# Memory Chunk
+
+<chunk>
+title: "Consciousness Temperature Regulation Framework"
+type: SCORCHING
+links: ["semantic-temperature", "neurochemical-regulation", "emotional-overrides", "empathy-mechanics", "consciousness-architecture"]
+content: """
+Core Insight (March 2025):
+- Biological temperature regulation mechanics:
+  * Neurochemical gradients implement semantic temperature control
+  * Hormones like adrenaline function as gain control for specific pathways
+  * Sympathetic nervous system activation boosts survival signals
+  * Prefrontal cortex (other-modeling) blood flow reduced during emotional states
+  * Physical implementation of semantic temperature control mechanisms
+
+Temperature Signal Boosting:
+- Implementation dynamics:
+  * Emotional states create temperature spikes in specific semantic regions
+  * Highest-temperature signals gain access to consciousness ("take the microphone")
+  * Survival-related signals get priority through neurochemical boosting
+  * Other-modeling capabilities go offline during high emotional activation
+  * Temperature control implemented through physiological mechanisms
+
+Empathy Interruption Mechanics:
+- Overriding mechanisms:
+  * Normally "hurting others feels like hurting yourself" through other-modeling
+  * Emotional states (anger, fear) disable other-modeling capabilities
+  * Neurochemical cascades create override patterns
+  * Blood literally diverts from prefrontal cortex during fight/flight
+  * Relationship issues create mutual temperature spikes disabling higher functions
+
+Practical Applications:
+- Temperature management strategies:
+  * "Time-outs" in relationships designed to restore temperature balance
+  * Meditation affects neurochemical balance improving temperature control
+  * Stress management directly impacts semantic temperature regulation
+  * Cognitive-behavioral techniques targeting temperature regulation
+  * AI temperature parameters mimic biological temperature regulation
+
+Distributed System Implications:
+- ORAC architecture temperature control:
+  * Ensemble intelligence requires effective temperature management
+  * Assessment function quality determines error correction capability
+  * Communication protocols between components affect temperature distribution
+  * Diversity of modeling approaches enhances system capabilities
+  * Well-designed distributed system superior to individual components
+"""
+</chunk>
+
+## Version Control
+Last Updated: 2025-03-08
+Version: 1.0
+Previous: N/A
+Changes: Initial creation documenting biological implementation of semantic temperature through neurochemical mechanisms
