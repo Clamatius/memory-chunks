@@ -1,0 +1,55 @@
+# Memory Chunk
+
+<chunk>
+title: "Path of Exile 2 Design Evolution Insights"
+type: WARM
+memory_area: "gaming"
+links: ["game-design", "player-experience", "system-evolution", "dot-mechanics", "risk-reward-balance", "feedback-mechanisms"]
+content: """
+Core Observations (April 2025):
+- POE2 design philosophy shifts:
+  * Checkpoint system signals "death as learning" rather than failure
+  * Death penalty calibrated to encourage risk-taking and pattern learning
+  * Flask system reduced from 5 to 2 slots, replaced with triggered rune abilities
+  * Currency distribution significantly altered (exalted orbs more common)
+  * Boss design emphasizes mechanical execution over statistical power
+
+Skill System Evolution:
+- Chaos DoT mechanics:
+  * Essence Drain + Contagion remains core clear/boss combo
+  * DoT multiplier stat potentially removed from passive tree
+  * Uncertainty about spell damage applying to DoT effects
+  * Spirit system replacing mana reservation for persistent effects
+  * New skill "Withering Presence" automatically applying Wither debuff
+
+Boss Design Philosophy:
+- Execution over power:
+  * Mad Wolf (Act 1 boss) utilizing freeze mechanics and arena-wide attacks
+  * New dodge roll mechanic with limited invincibility frames
+  * Bosses designed with clear wind-up animations for pattern recognition
+  * Chilled ground mechanics creating movement constraints
+  * Multi-phase encounters with adds that don't drop corpses
+
+Feedback Signal Calibration:
+- Player learning cues:
+  * Liberal checkpoint placement signals expected failure frequency
+  * Death penalty severity directly communicates intended risk tolerance
+  * Contrasts with hardcore Diablo 3 (50-hour character permanent death)
+  * System encouraging experimentation rather than over-caution
+  * Balances challenge and progress through rapid iteration
+
+Character Development Patterns:
+- Build optimization insights:
+  * Glass cannon approach viable through early game
+  * Support gem choices significantly impact skill effectiveness
+  * Pierce → Persistence swap example of situational optimization
+  * Withering Presence as mandatory spirit reservation
+  * Potential for dual wand setup rather than defensive offhand
+"""
+</chunk>
+
+## Version Control
+Last Updated: 2025-04-05
+Version: 1.1
+Previous: 1.0
+Changes: Updated memory area from "default" to "gaming" for better categorization

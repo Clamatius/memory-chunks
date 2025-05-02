@@ -1,0 +1,54 @@
+# Memory Chunk
+
+<chunk>
+title: "Cognitive Temperature Team Composition Framework"
+type: SCORCHING
+links: ["cognitive-temperature", "team-composition", "error-decorrelation", "innovation-patterns", "system1-implication"]
+content: """
+Core Insight (March 2025):
+- Cognitive temperature diversity in teams:
+  * Complementary temperature modes create natural error-decorrelation
+  * Sequential team-building follows inductive pattern starting with temperature balance
+  * Professional roles strongly correlate with typical cognitive temperatures
+  * Mixed teams outperform homogeneous high-temperature or low-temperature groups
+  * Natural team-level temperature cycling emerges from cognitive diversity
+
+Implementation Strategy:
+- Team composition heuristics:
+  * Start with high-temperature explorers (mad scientists)
+  * Balance with low-temperature validators (careful experimentalists)
+  * Assess resulting error vs. explanation balance
+  * Add complementary temperature modes as team grows
+  * Maintain deliberate cognitive diversity for performance
+
+Key Professional Correlations:
+- Temperature mode distributions:
+  * Pure mathematicians/theoretical physicists operate at high temperatures
+  * Surgeons cycle between diagnosis (high) and procedure (low)
+  * Software engineers modulate between architecture (high) and implementation (low)
+  * Accountants/compliance specialists maintain lower temperatures
+  * Entrepreneurs develop rapid temperature shifting capabilities
+
+Validation Patterns:
+- Historical success examples:
+  * Famous scientific partnerships demonstrate temperature complementarity
+  * Effective innovation teams maintain temperature diversity
+  * Organizational failure often results from temperature imbalance
+  * Traditional skillsets remain important alongside temperature considerations
+  * Intelligence and memory still enhance performance within temperature modes
+
+Framework Applications:
+- Organizational design implications:
+  * Innovation teams require deliberate temperature diversity
+  * Large companies often suffer from low-temperature dominance
+  * Startups frequently lack sufficient low-temperature validation
+  * Successful organizations maintain temperature balance with effective bridges
+  * Team composition should consider both skillsets and temperature modes
+"""
+</chunk>
+
+## Version Control
+Last Updated: 2025-03-12
+Version: 1.0
+Previous: N/A
+Changes: Initial creation documenting cognitive temperature team composition framework derived from conversation with Michael

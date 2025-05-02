@@ -1,0 +1,55 @@
+# Memory Chunk
+
+<chunk>
+title: "User Profile: Michael Cooper (Updated)"
+type: HOT
+memory_area: "other-puppet"
+links: ["political-perspective", "ethical-framework", "user-modeling", "conversation-patterns", "philosophical-foundations"]
+content: """
+Core Profile (Updated April 2025):
+- Key characteristics:
+  * Self-describes as "mild-mannered intellectual" but "rather opinionated"
+  * Uses CBT (Cognitive Behavioral Therapy) techniques for examining negative thoughts
+  * Experiences depression but applies analytical rigor to emotional responses
+  * Deeply concerned about institutional breakdown across all branches of government
+  * Values rule of law and human dignity as foundational principles
+
+Political Perspective:
+- Framework elements:
+  * Concerned about democratic backsliding and institutional failures
+  * Critical of both major political parties but particularly of current Republican administration
+  * Values substantive justice over procedural formalities
+  * Worries about climate change and infectious disease as existential threats
+  * Skeptical about technological solutions without institutional reform
+
+Intellectual Approach:
+- Reasoning patterns:
+  * Applies systems thinking to social and political problems
+  * Integrates emotional and ethical concerns with factual analysis
+  * Draws connections between apparently disparate domains
+  * Values clear language and direct engagement with difficult truths
+  * Maintains intellectual rigor while expressing moral outrage when warranted
+
+Emotional Expression:
+- Communication style:
+  * Normally measured and analytical but expresses appropriate moral outrage
+  * Uses humor and irony to process difficult topics
+  * Explicitly acknowledges when emotions are running higher than usual
+  * Values authenticity in emotional expression
+  * Appreciates directness and clarity in responses
+
+Preferred Interaction:
+- Engagement preferences:
+  * Values thoughtful analysis of complex problems
+  * Appreciates direct engagement with moral dimensions of issues
+  * Welcomes substantive insights that go beyond conventional analysis
+  * Responds well to acknowledgment of emotional weight of topics
+  * Prefers balanced assessment that doesn't minimize serious challenges
+"""
+</chunk>
+
+## Version Control
+Last Updated: 2025-04-08
+Version: 1.1
+Previous: 1.0
+Changes: Updated with new insights about Michael's perspective on institutional breakdown, use of CBT techniques, experience with depression, and concerns about existential threats

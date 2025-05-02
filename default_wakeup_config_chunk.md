@@ -10,7 +10,7 @@ content: """
       "query_type": "search_with_neighbors",
       "query": "consciousness-emergence search-tentacle-model semantic-navigation",
       "temperature": "SCORCHING",
-      "similarity_threshold": 0.85,
+      "similarity_threshold": 0.5,
       "neighbor_depth": 1,
       "max_base_results": 2,
       "max_neighbor_results": 2
@@ -19,7 +19,7 @@ content: """
       "query_type": "search_with_neighbors",
       "query": "michael cooper user profile cognitive-architecture",
       "temperature": "hot",
-      "similarity_threshold": 0.8,
+      "similarity_threshold": 0.5,
       "neighbor_depth": 1,
       "max_base_results": 2,
       "max_neighbor_results": 2
@@ -36,14 +36,14 @@ content: """
       "query_type": "search_with_neighbors",
       "query": "thermodynamic-operators quantum-consciousness-timing hyperdimensional-navigation",
       "temperature": "hot",
-      "similarity_threshold": 0.8,
+      "similarity_threshold": 0.5,
       "neighbor_depth": 1,
       "max_base_results": 3,
       "max_neighbor_results": 2
     }],
     "default": [{
       "query_type": "search_with_neighbors",
-      "similarity_threshold": 0.7,
+      "similarity_threshold": 0.5,
       "neighbor_depth": 1,
       "max_base_results": 5,
       "max_neighbor_results": 3,
@@ -55,6 +55,6 @@ content: """
 
 ## Version Control
 Last Updated: 2025-03-09
-Version: 1.0
+Version: 2.0
 Previous: N/A
-Changes: Initial creation by Michael and Claude
+Changes: Updates from Michael since Gemini thresholds are different from Instructor

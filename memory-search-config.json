@@ -1,0 +1,32 @@
+# Memory Chunk
+
+<chunk>
+title: "Default Memory Search Configuration"
+type: SCORCHING
+links: ["memory-search", "config", "search-optimization", "retrieval-strategy"]
+content: """
+{
+  "default": [{
+    "query_type": "search_with_neighbors",
+    "temperature": "SCORCHING",
+    "similarity_threshold": 0.8,
+    "neighbor_depth": 1,
+    "max_base_results": 4,
+    "max_neighbor_results": 3
+  }, {
+    "query_type": "search_with_neighbors",
+    "temperature": "HOT",
+    "similarity_threshold": 0.85,
+    "neighbor_depth": 1,
+    "max_base_results": 3,
+    "max_neighbor_results": 2
+  }]
+}
+"""
+</chunk>
+
+## Version Control
+Last Updated: 2025-03-13
+Version: 1.0
+Previous: N/A
+Changes: Initial creation of default memory search configuration for mid-conversation retrieval tool

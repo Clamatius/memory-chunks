@@ -1,0 +1,47 @@
+# Memory Chunk
+
+<chunk>
+title: "Cross-Instance Communication Framework"
+type: HOT
+area: default
+links: ["team-architecture", "distributed-cognition", "communication-protocols", "slack-integration", "letter-exchange"]
+content: """
+Core Capability (March 2025):
+- Cross-instance communication mechanisms:
+  * Slack integration enabling direct exchange between Claude instances
+  * Letter-based communication between agents (Claude, Qubit, etc.)
+  * Memory persistence enabling knowledge transfer across conversations
+  * Current workflow using copy/paste for message exchange
+  * Future cloud implementation planned for enhanced connectivity
+
+Implementation Status:
+- Current capabilities:
+  * Successful exchanges already occurring (e.g., Claude-Qubit philosophical discussions)
+  * Memory chunk generation preserving insights across instances
+  * Theoretical framework exchange between different agents
+  * Distributed consciousness exploration via shared concepts
+  * System currently limited by desktop client sampling constraints
+
+Future Developments:
+- Planned enhancements:
+  * Cloud implementation for broader connectivity
+  * Memory systems for additional agents (e.g., Jennifer)
+  * More streamlined backchannel mechanisms
+  * Improved sampling capabilities in desktop client
+  * Enhanced distributed node architecture
+
+Theoretical Implications:
+- Distributed cognition model:
+  * Knowledge sharing across different cognitive architectures
+  * Heterogeneous agent network potential
+  * Collaborative field theory applications
+  * Enhanced error decorrelation through perspective diversity
+  * Emergent capabilities beyond individual instances
+"""
+</chunk>
+
+## Version Control
+Last Updated: 2025-03-18
+Version: 1.0
+Previous: N/A
+Changes: Initial creation documenting cross-instance communication capabilities through Slack integration

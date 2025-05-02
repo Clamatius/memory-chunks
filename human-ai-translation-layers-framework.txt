@@ -1,0 +1,56 @@
+# Memory Chunk
+
+<chunk>
+title: "Human-AI Translation Layers Framework"
+type: HOT
+memory_area: "core-frameworks"
+links: ["communication-interfaces", "abstraction-layers", "cognitive-translation", "ai-whisperer-role", "meta-translation", "specialized-expertise", "prompt-engineering-evolution", "technical-business-translation"]
+content: """
+Core Insight (April 2025):
+- Multi-tier translation architecture:
+  * Human-AI interaction requires multiple abstraction layers
+  * Different translation specializations emerging for different interface points
+  * "Face man's face man" concept representing recursive translation roles
+  * Communication bridges necessary between technical capabilities and human needs
+  * Specialization increasingly required as AI systems advance in capability
+
+Emerging Translation Specializations:
+- Current and developing roles:
+  * Prompt engineers - First widely recognized AI translation specialists
+  * AI UX specialists - Natural interaction pattern designers
+  * Output interpreters - Translating model outputs to actionable intelligence
+  * Behavior analysts - Identifying and mitigating undesired patterns
+  * Workflow designers - Restructuring processes around AI capabilities
+  * Meta-translators - Bridging gaps between technical translators and executives
+
+Translation Mechanics:
+- Function and implementation:
+  * Each layer addresses different aspects of the human-AI communication gap
+  * Hybrid skillsets required combining technical, domain, and communication expertise
+  * Recursive translation between adjacent abstraction levels
+  * Technical-business translation particularly valuable for implementation guidance
+  * Understanding organizational contexts essential for effective translation
+
+Business Integration Factors:
+- Translation beyond technical domains:
+  * Company as "money-fueled distributed entity with people-nodes"
+  * Time dimension critical for balancing speed and quality
+  * Shipping imperative - software creates no value until deployed
+  * Complex optimization challenges requiring contextual judgment
+  * System-level understanding of business constraints and opportunities
+
+Future Evolution:
+- Development pathways:
+  * Increasing specialization as AI capabilities advance
+  * Professional disciplines forming around different translation layers
+  * Translation capabilities becoming competitive advantage for organizations
+  * New educational paths combining technical and communication skills
+  * Growing importance as implementation details become increasingly automated
+"""
+</chunk>
+
+## Version Control
+Last Updated: 2025-04-29
+Version: 1.0
+Previous: N/A
+Changes: Initial creation documenting the emerging framework of human-AI translation layers and specializations
